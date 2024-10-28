@@ -20,6 +20,7 @@ public class Principal {
 		Implementacion imp = new Implementacion();
 		
 		do {
+			System.out.println("Hola nuevos cambios");
 			System.out.println("== MENÚ PRINCIPAL ==");
 			System.out.println("1 -- ALTA");
 			System.out.println("2 -- MOSTRAR");
